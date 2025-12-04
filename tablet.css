@@ -1,0 +1,17 @@
+@media(min-width:768px) {
+    .cont {
+        width: 768px;
+        height: auto;
+        background-image: url(./assets/backtab.svg);
+    }
+
+    header {
+        left: 261px;
+    }
+
+    main {
+        width: 445px;
+        margin-left: 162px;
+        text-align: center;
+    }
+}

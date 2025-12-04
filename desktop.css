@@ -1,0 +1,24 @@
+@media(min-width:1440px) {
+    .cont {
+        width: 100vw;
+        height: 100vw;
+
+        background-image: url(./assets/backdes.svg);
+    }
+
+    header {
+        top: 147px;
+        left: 314px;
+    }
+
+    main {
+        position: relative;
+        top: -250px;
+        left: 500px;
+        text-align: left;
+    }
+
+    h5 {
+        text-align: left;
+    }
+}
